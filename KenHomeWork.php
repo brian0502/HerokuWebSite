@@ -193,7 +193,7 @@
 		<h4>產生下列資料</h4>
 		<span><?php dd($data);?></span>
 		<span>備註：</span>
-		<span>1. html 空格符號使用 半形的空格，語法可看參考網址(<a href="https://shunnien.github.io/2017/06/03/html-nbsp-emsp-emsp-difference/" target="_blank">參考網址</a>)</span>
+		<span>1. 訂單建立時間須在折扣碼結束時間內才算有效</span>
 	</div>
 </body>
 </html>
